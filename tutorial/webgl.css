@@ -1,0 +1,7 @@
+canvas {
+	border: 2px solid rgb(142, 74, 74);
+	background-color: black;
+}
+video {
+	display: none;
+}
